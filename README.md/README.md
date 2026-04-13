@@ -1,11 +1,5 @@
 # 📊 Sales Performance Analysis
 
-**Author:** Ayushi Shukla · [GitHub](https://github.com/YUSHICODES111) · [Portfolio](https://ayushishukla.dev)  
-**Tools:** Python · Pandas · SQL · Matplotlib · Seaborn · HTML/JS Dashboard  
-**Period:** H1 2024 (January – June)
-
----
-
 ## 🗂️ Project Overview
 
 An end-to-end sales data analysis pipeline that ingests raw transactional data, performs systematic data cleaning and outlier detection, executes SQL-based KPI queries, and generates a suite of visualisations plus an interactive browser dashboard.
@@ -138,12 +132,5 @@ Import `data/sales_data.csv` into MySQL or SQLite and run `SQL/queries.sql`.
 
 ---
 
-## 🔗 Connect
-
-- 📧 ayushi.shukla@email.com  
-- 💼 [LinkedIn](https://linkedin.com/in/ayushishukla)  
-- 🐙 [GitHub](https://github.com/YUSHICODES111)
-
----
 
 *This project is part of my data analytics portfolio. Feedback and suggestions welcome via Issues.*
